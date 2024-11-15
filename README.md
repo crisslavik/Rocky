@@ -9,7 +9,7 @@ Easily install Rocky Linux 9.4 with NVIDIA drivers and KDE as your desktop envir
 2. During the 9.4 install, be sure to select “Server" without GUI
 3. Login to TTY, download git, then clone this project, and cd into it: 
     1. `sudo dnf install git`
-    2. `git clone https://github.com/TheLinuxITGuy/Rocky-Scripts.git && cd Rocky-Scripts`
+    2. `git clone https://github.com/crisslavik/Rocky.git && cd Rocky`
     3. Type: `chmod u+x *.sh`
     4. Type: `./1.install-X11.sh`
 4. The script will run and prompt to reboot when finished
