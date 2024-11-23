@@ -3,7 +3,8 @@
 APP_NAME="GRUB Fix"
 
 echo -e "\033[0;32m====================================="
-echo -e "\033[1;32mThe Linux IT Guy - Rocky Linux 9.4 POST-Install NVIDIA Script"
+echo -e "\033[1;32mNOX VFX - Rocky Linux 9.5 POST-Install NVIDIA Script"
+echo -e "\033[1;32mAll informations here came from THE LINUX IT GUY"
 echo -e "\033[1;32mRunning $APP_NAME"
 echo -e "\033[0;32m=====================================\033[0m"
 
