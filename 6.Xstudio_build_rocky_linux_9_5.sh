@@ -1,3 +1,9 @@
+echo -e "\033[1;32m################################################"
+echo -e "\033[1;32m## NOX VFX - Rocky Linux 9.5 XSTUDIO Install  ##"
+echo -e "\033[1;32m##  all the informations here came from ASF   ##"
+echo -e "\033[1;32m##           Thanks Michael Oliver            ##"
+echo -e "\033[1;32m################################################"
+
 ## Rocky Linux 9.x
 #[Download](https://rockylinux.org/download "Download")
 
