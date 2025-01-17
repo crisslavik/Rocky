@@ -11,4 +11,4 @@ echo -e "\033[0;32m=====================================\033[0m"
 # Install KDE
 sudo dnf install plasma-desktop -y
 sudo dnf install epel-release -y
-sudo dnf install sddm dolphin plasma-systemmonitor gwenview kcalc krdc kate kscreen yakuake kde-gtk-config konsole firefox ark krfb sddm-breeze  -y
+sudo dnf install sddm dolphin plasma-systemmonitor gwenview kcalc krdc kate kscreen yakuake kde-gtk-config konsole firefox kinfocenter ark krfb sddm-breeze  -y
